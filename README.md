@@ -15,7 +15,8 @@ Supesquire is a `Next.js` application powered by OpenAI and supabase. It is well
 - **langchain**: Extract textual content from the PDF document and generate tailored prompts for document questions & answering
 - **Next.js**: UI and Backend
 
-![stack](https://github.com/rickleibow/supesquire/assets/47709856/05a3d5d9-35d9-4442-9055-e0de605fb2ad)
+![263046796-05a3d5d9-35d9-4442-9055-e0de605fb2ad](https://github.com/rickleibow/supesquire/assets/116029406/2b90de48-4002-4f39-9d9d-071da40ccece)
+
 
 # Supabase setup
 
@@ -67,7 +68,7 @@ context: Chatting with the specification document of a bike
 
 **A:**
 
-![list_demo](https://github.com/rickleibow/supesquire/assets/47709856/1631d98a-0704-48d3-9029-f5d50617106e)
+![263039688-1631d98a-0704-48d3-9029-f5d50617106e](https://github.com/rickleibow/supesquire/assets/116029406/d37467b5-9875-4461-8538-de3f84fa6da8)
 
 - The app supports syntax highlighting for code snippets. If the document includes code snippets, then you can make the model return it in a formatted
 
@@ -79,4 +80,5 @@ context: Chatting with a book that covers the concepts of Golang
 
 **A:**
 
-![code_demo](https://github.com/rickleibow/supesquire/assets/47709856/9bc052ab-9885-495d-bf0d-f5289ce68d14)
+![263047691-9bc052ab-9885-495d-bf0d-f5289ce68d14](https://github.com/rickleibow/supesquire/assets/116029406/965c54ed-5df0-483f-9145-e5b5ec863183)
+
